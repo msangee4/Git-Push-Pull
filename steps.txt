@@ -1,3 +1,5 @@
+Steps to pull a repository to our system folder
+
 CONFIGURE GIT
 git config --global user.name "msangee4"
 git config --global user.email "msangee4@gmail.com"
@@ -15,4 +17,19 @@ git push origin main
 TO PULL FROM GIT TO DESKTOP
 git pull origin main
 
-Git Push and Pull are done Successfully
+Steps to push a project to git
+TO CREATE GIT FOLDER
+git init
+TO SEND TO STAGING AREA 
+git add .
+TO SEND TO GIT FOLDER
+git commit -m "MESSAGE"
+TO KNOW THE BRANCH
+git branch -a
+TO CHANGE BRANCH name
+git branch -m main
+TO CONNECT FOLDER AND repository
+copy from repository page eg. git remote add origin https://github.com/msangee4/Portfolio-Pull.git
+TO PUSH FROM DESKTOP TO GIT
+git push origin main
+AS USUAL SET PAGES AND WEB PAGE IS CREATED
