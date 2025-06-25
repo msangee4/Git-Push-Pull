@@ -14,3 +14,5 @@ TO PUSH FROM DESKTOP TO GIT
 git push origin main
 TO PULL FROM GIT TO DESKTOP
 git pull origin main
+
+Git Push and Pull are done Successfully
