@@ -1,0 +1,16 @@
+CONFIGURE GIT
+git config --global user.name "msangee4"
+git config --global user.email "msangee4@gmail.com"
+NEW TERMINAL
+git clone "url from code in git website"
+TO KNOW THE FILE LOCATION
+git status
+TO SEND TO STAGING AREA 
+cd FolderName
+git add .
+TO SEND TO GIT FOLDER
+git commit -m "MESSAGE"
+TO PUSH FROM DESKTOP TO GIT
+git push origin main
+TO PULL FROM GIT TO DESKTOP
+git pull origin main
